@@ -1,0 +1,12 @@
+#game-caro {
+    position: relative;
+    margin-top: 50px;
+    margin-left: 550px;
+}
+.cell {
+    border: solid 1px #00b2ff;
+    text-align: center;
+    font-size: 20pt;
+    cursor: pointer;
+    color: red;
+}
